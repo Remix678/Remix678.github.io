@@ -8,6 +8,10 @@ body {
     font-size: 10;
 }
 
-h1, p {
+h1 {
     border: 1px solid black;
+}
+
+h {
+ animation: ease-in   
 }
